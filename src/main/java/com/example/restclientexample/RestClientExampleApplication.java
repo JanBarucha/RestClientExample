@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RestClientExampleApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RestClientExampleApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(RestClientExampleApplication.class, args);
+    }
 
 }
